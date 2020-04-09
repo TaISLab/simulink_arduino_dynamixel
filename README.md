@@ -9,3 +9,4 @@ Position and velocity command example. Tested under matlab R2013b and R2014b
 
 Please send feedback and comments.
 
+https://www.youtube.com/watch?v=3m18MP4xgnw
